@@ -1,6 +1,6 @@
 ✨ Hi 👋, I'm Prathviraj Chouhan
 
-🌱 I’m currently learning Data structures and Algorithms (DSA) using Java 🚀
+🌱 I’m currently learning Data Structures and Algorithms (DSA) using Java 🚀
 
 <!--
 **prathviraj29/prathviraj29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

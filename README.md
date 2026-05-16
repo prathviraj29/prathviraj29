@@ -1,5 +1,4 @@
 ✨ Hi 👋, I'm Prathviraj Chouhan
-
 🌱 I’m currently learning Data structures and Algorithms (DSA) using Java 🚀
 
 <!--

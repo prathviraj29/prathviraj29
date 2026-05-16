@@ -1,4 +1,4 @@
-##✨ Hi 👋, I'm Prathviraj Chouhan
+✨ Hi 👋, I'm Prathviraj Chouhan
 
 <!--
 **prathviraj29/prathviraj29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,8 +13,8 @@
 
 - 🌱 Currently learning **Java & Data Structures and Algorithms**
 - 💻 Exploring **JavaScript and MERN Stack**
-- 🚀 Building projects and improving my coding skills
 - 🏗️ Currently working on **CampusBuddy – Smart College Chatbot**
+- 🚀 Building projects and improving my coding skills
 - 🎯 Focused on becoming a better software developer
 
 ---

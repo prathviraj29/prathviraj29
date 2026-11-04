@@ -1,8 +1,15 @@
-# 👋 Hi, I'm Prathviraj Chouhan
 
-### 💻 Aspiring Software Developer | B.Tech CSE Student
+<h1 align="center">Hi 👋, I'm Prathviraj Chouhan</h1>
 
-I'm a Computer Science student passionate about programming, problem-solving, and web development.
+<h3 align="center">💻 Aspiring Software Developer | B.Tech CSE Student</h3>
+
+<p align="center">
+  Passionate about programming, problem-solving and web development.
+</p>
+
+---
+
+### 👨‍💻 About Me
 
 - 🌱 Currently learning **Java & Data Structures and Algorithms**
 - 💻 Exploring **JavaScript and MERN Stack**
@@ -11,50 +18,69 @@ I'm a Computer Science student passionate about programming, problem-solving, an
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Technologies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+</p>
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" alt="VS Code" />
+</p>
 
 ---
 
 ### 📌 Featured Projects
 
-- [Calculator](https://github.com/prathviraj29/Calculator) — Basic calculator using HTML, CSS and JavaScript.
-- [JavaScript Practice](https://github.com/prathviraj29/JavaScript-Practice) — JavaScript concepts and coding exercises.
+**1. Calculator**
+
+A simple calculator built using HTML, CSS and JavaScript.
+
+[View Repository](https://github.com/prathviraj29/Calculator)
+
+**2. JavaScript Practice**
+
+My daily JavaScript practice, coding exercises and learning progress.
+
+[View Repository](https://github.com/prathviraj29/JavaScript-Practice)
 
 ---
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathviraj29&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathviraj29&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathviraj29&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathviraj29&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prathviraj29&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prathviraj-chouhan)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/prathviraj29/)
+<p align="left">
+  <a href="https://linkedin.com/in/prathviraj-chouhan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LEETCODE_PROFILE_URL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathviraj29&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathviraj29&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=prathviraj29&theme=tokyonight)
-⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>

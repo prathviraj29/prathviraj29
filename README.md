@@ -78,7 +78,7 @@ My daily JavaScript practice, coding exercises and learning progress.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="prathvirajchouhan896@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
   </a>
 </p>

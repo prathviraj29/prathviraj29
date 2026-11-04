@@ -57,8 +57,8 @@ My daily JavaScript practice, coding exercises and learning progress.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathviraj29&show_icons=true&theme=tokyonight" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathviraj29&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathviraj29&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathviraj29&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">

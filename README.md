@@ -46,7 +46,7 @@ I'm a Computer Science student passionate about programming, problem-solving, an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prathviraj-chouhan)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_PROFILE_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/prathviraj29/)
 
 ---
 

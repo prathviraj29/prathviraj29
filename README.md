@@ -74,7 +74,7 @@ My daily JavaScript practice, coding exercises and learning progress.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_LEETCODE_PROFILE_URL" target="_blank">
+  <a href="https://leetcode.com/u/prathviraj29/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode" />
   </a>
 </p>

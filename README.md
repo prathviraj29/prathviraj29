@@ -40,17 +40,32 @@
 
 ### 📌 Featured Projects
 
-**1. Calculator**
-
-A simple calculator built using HTML, CSS and JavaScript.
-
-[View Repository](https://github.com/prathviraj29/Calculator)
-
-**2. JavaScript Practice**
-
-My daily JavaScript practice, coding exercises and learning progress.
-
-[View Repository](https://github.com/prathviraj29/JavaScript-Practice)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧮 Calculator</h3>
+      <p align="center">
+        A simple calculator built using HTML, CSS and JavaScript.
+      </p>
+      <p align="center">
+        <a href="https://github.com/prathviraj29/Calculator">
+          <strong>View Repository →</strong>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 JavaScript Practice</h3>
+      <p align="center">
+        Daily JavaScript concepts, coding exercises and practice programs.
+      </p>
+      <p align="center">
+        <a href="https://github.com/prathviraj29/JavaScript-Practice">
+          <strong>View Repository →</strong>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
